@@ -45,7 +45,6 @@ Outputs PNG frames to frozenlake_frames/.
 
 ## 🎥 Demo
 
-```markdown
 Trained agent successfully navigating the FrozenLake:
 ```html
 <table>
@@ -55,5 +54,4 @@ Trained agent successfully navigating the FrozenLake:
     <td><img src="assets/step_002.png" width="300"></td>
   </tr>
 </table>
-```
 ```
