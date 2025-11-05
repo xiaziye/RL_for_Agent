@@ -55,3 +55,11 @@ Trained agent successfully navigating the FrozenLake:
     <td><img src="assets/step_002.png" width="300"></td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td><img src="assets/step_003.png" width="300"></td>
+    <td><img src="assets/step_004.png" width="300"></td>
+    <td><img src="assets/step_005.png" width="300"></td>
+  </tr>
+</table>
