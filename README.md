@@ -42,4 +42,18 @@ Outputs PNG frames to frozenlake_frames/.
 - `frozenlake_frames/`: Visualization output
 
 > ✅ Converges to >0.95 average reward in ~200 episodes.
+
+## 🎥 Demo
+
+```markdown
+Trained agent successfully navigating the FrozenLake:
+```html
+<table>
+  <tr>
+    <td><img src="assets/step_000.png" width="300"></td>
+    <td><img src="assets/step_001.png" width="300"></td>
+    <td><img src="assets/step_002.png" width="300"></td>
+  </tr>
+</table>
+```
 ```
