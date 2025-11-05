@@ -43,5 +43,3 @@ Outputs PNG frames to frozenlake_frames/.
 
 > ✅ Converges to >0.95 average reward in ~200 episodes.
 ```
-
----
